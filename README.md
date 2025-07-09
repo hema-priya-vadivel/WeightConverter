@@ -16,8 +16,10 @@ A simple and intuitive **Java Swing desktop application** that converts weight f
 
 ## 🖼️ Weight Converter GUI
 
-![Weight Converter GUI - 1](assets/image-1.png)
-![Weight Converter GUI - 1](assets/image-2.png)
+<br>
+<img src="assets/image-1.png" alt="Weight Converter GUI - 1" width="400">
+<br>
+<img src="assets/image-2.png" alt="Weight Converter GUI - 2" width="400">
 
 ## 🚀 Getting Started
 
